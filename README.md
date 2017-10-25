@@ -17,4 +17,4 @@
     <tr><th>Row Title 2</th><td>item3</td><td>item4</td></tr>
 </table>
 <br>
-![test](/http://www.ndhu.edu.tw/ezfiles/0/1000/img/8/LOGO_NDHU.png)
+<img src="http://www.ndhu.edu.tw/ezfiles/0/1000/img/8/LOGO_NDHU.png">
